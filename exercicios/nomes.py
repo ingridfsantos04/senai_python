@@ -1,0 +1,10 @@
+nomes = []
+nome = input('Nome: ')
+nomes.append(nome)
+nome = input('Nome: ')
+nomes.append(nome)
+nome = input('Nome: ')
+nomes.append(nome)
+nome = input('Nome: ')
+nomes.append(nome)
+print(nomes)

@@ -1,0 +1,6 @@
+nome = input('Qual o seu nome?: ')
+salario = int(input('Salário?: '))
+despesa1= int(input('despesa?:'))
+despesa2 = int(input('despesa?:'))
+sobra = (salario - despesa1 - despesa2)
+print('O saldo final do(a) {} é: {}'.format(nome, sobra))

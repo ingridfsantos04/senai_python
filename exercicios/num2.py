@@ -1,0 +1,12 @@
+numeros = []
+numero = int(input('Informe o numero: '))
+numeros.append(numero)
+numero = int(input('Informe o numero: '))
+numeros.append(numero)
+numero = int(input('Informe o numero: '))
+numeros.append(numero)
+numero = int(input('Informe o numero: '))
+numeros.append(numero)
+numero = int(input('Informe o numero: '))
+numeros.append(numero)
+print(numero)
